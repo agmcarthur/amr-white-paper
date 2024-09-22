@@ -15,4 +15,4 @@ Various white and governmental papers on antimicrobial resistance (AMR), with so
 
 ## Primary Scientific Literature
 * [Global burden of bacterial antimicrobial resistance 1990-2021: a systematic analysis with forecasts to 2050](https://pubmed.ncbi.nlm.nih.gov/39299261/). *Lancet*. 2024 Sep 13:S0140-6736(24)01867-1.
-* [Stronger commitment and faster action against antimicrobial resistance](https://pubmed.ncbi.nlm.nih.gov/39271778/). *Nat Rev Microbiol*. 2024 Oct;22(10):589-590.
+* [Stronger commitment and faster action against antimicrobial resistance](https://pubmed.ncbi.nlm.nih.gov/39271778/). *Nat Rev Microbiol*. 2024 Oct;22(10):589-590. 
